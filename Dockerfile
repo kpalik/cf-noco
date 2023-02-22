@@ -1,1 +1,1 @@
-nocodb/nocodb:latest
+FROM nocodb/nocodb:latest
